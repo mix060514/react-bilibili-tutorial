@@ -1,6 +1,8 @@
 # Introduce
 This project is inspired by and follows the tutorial from a video on [Bilibili](https://www.bilibili.com/video/BV1kH4y117yr). It aims to provide an implementation of the concepts an techniques demonstrated in the video.
 
+Here's the original repository by the video creator:
+https://github.com/Archimesons/react-bilibili-tutorial
 
 # React + Vite
 
